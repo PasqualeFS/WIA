@@ -1,0 +1,17 @@
+#canvas1, 
+#canvas2, 
+#canvas3, 
+#canvas4, 
+#canvas5, 
+#canvas6, 
+#canvas7 {
+	/* margin-left: 40px; */
+	border: 2px solid #000000;
+}
+
+.notcircle {
+	background: #ff0000;
+	width: 30px;
+	height: 30px;
+	border-radius: 200px;
+}
